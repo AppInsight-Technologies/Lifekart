@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744176050219",
+    "project_id": "lifekart-a1a24",
+    "storage_bucket": "lifekart-a1a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744176050219:android:2a5e29a918b5f095408a6e",
+        "android_client_info": {
+          "package_name": "com.lifekart.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744176050219-porqe8u68db313htu63rojalt8puq5p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMEDk7zlsTVqDvM-5ReCMyXEmT-iPUIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744176050219-porqe8u68db313htu63rojalt8puq5p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
